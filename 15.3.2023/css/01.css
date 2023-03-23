@@ -1,0 +1,56 @@
+body {
+  font-family: "Nunito", sans-serif;
+}
+.aa a {
+  padding: 0px 15px;
+}
+div.aa {
+  text-align: center;
+  background-color: pink;
+  padding: 10px;
+  margin-top: 5px;
+}
+nav.ab {
+  text-align: center;
+  text-decoration: none;
+  font-size: 30 rem;
+  margin: 30px;
+  background-color: white;
+}
+.ab a:hover {
+  color: white;
+  background-color: black;
+}
+nav.ab a {
+  text-decoration: none;
+  background-color: white;
+  padding: 20px;
+  color: black;
+}
+.ac img {
+  width: 95%;
+  margin: 0px 80px;
+}
+.ad img {
+  width: 550px;
+  height: 550px;
+  padding: 20px;
+  margin: 130px;
+}
+main {
+  text-align: left;
+}
+iframe {
+  margin-top: 20px;
+}
+.tb {
+  text-align: center;
+}
+
+tbody,
+h2 {
+  text-align: center;
+}
+tbody {
+  margin-left: 100px;
+}
