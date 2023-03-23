@@ -15,11 +15,11 @@ nav.ab {
   text-decoration: none;
   font-size: 30 rem;
   margin: 30px;
-  background-color: white;
+  background-color: grey;
 }
 .ab a:hover {
   color: white;
-  background-color: black;
+  background-color: orange;
 }
 nav.ab a {
   text-decoration: none;
@@ -28,14 +28,22 @@ nav.ab a {
   color: black;
 }
 .ac img {
-  width: 95%;
+  width: 90%;
   margin: 0px 80px;
+}
+section.ac {
+  background-color: grey;
+}
+
+section.ad {
+  background-color: green;
 }
 .ad img {
   width: 550px;
   height: 550px;
   padding: 20px;
   margin: 130px;
+  background-color: black;
 }
 main {
   text-align: left;
@@ -43,8 +51,11 @@ main {
 iframe {
   margin-top: 20px;
 }
-.tb {
+table.tb {
   text-align: center;
+  background-color: grey;
+  color: white;
+  width: 100%;
 }
 
 tbody,
@@ -53,4 +64,14 @@ h2 {
 }
 tbody {
   margin-left: 100px;
+}
+td {
+  padding: 20px;
+  text-align: center;
+}
+h2 {
+  background-color: blue;
+  padding: 40px;
+  margin: 10px;
+  width: 96%;
 }
